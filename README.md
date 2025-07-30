@@ -10,7 +10,7 @@
 - 🎓 Estudante de **Ciência da Computação** – 2º Período  
 - 📊 Estudante de **Big Data e Inteligência Artificial** – 1º Período  
 - 🐍 Focado em **Python** e **SQL**  
-- 💡 Interesses: Machine Learning, Engenharia de Dados e ciencia de dados
+- 💡 Interesses: Machine Learning, Engenharia de Dados e  Ciência de Dados
 
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-FF4088?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
 ## 🌐 Conecte-se comigo  
