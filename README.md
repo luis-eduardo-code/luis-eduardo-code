@@ -1,5 +1,5 @@
 <!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o Luis Eduardo!</h1>
+<h1 align="center">👋 Olá, eu sou o Luis Eduardo</h1>
 <p align="center">
   Estudante apaixonado por <b>Tecnologia, Ciência de Dados e Inteligência Artificial</b>
 </p>
@@ -10,7 +10,7 @@
 - 🎓 Estudante de **Ciência da Computação** – 2º Período  
 - 📊 Estudante de **Big Data e Inteligência Artificial** – 1º Período  
 - 🐍 Focado em **Python** e **SQL**  
-- 💡 Interesses: Machine Learning, Engenharia de Dados e Cultura Digital  
+- 💡 Interesses: Machine Learning, Engenharia de Dados e ciencia de dados
 
 ---
 
@@ -22,17 +22,6 @@
   <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/IA-FF4088?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-eduardo-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-eduardo-code&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
 
 ## 🌐 Conecte-se comigo  
 
