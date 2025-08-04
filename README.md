@@ -1,29 +1,30 @@
-<!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o Luis Eduardo</h1>
+<!-- Banner or greeting -->
+<h1 align="center">👋 Hello, I’m Luis Eduardo</h1>
 <p align="center">
-  Estudante apaixonado por <b>Tecnologia, Ciência de Dados e Inteligência Artificial</b>
+  A student passionate about <b>Technology, Data Science, and Artificial Intelligence</b>
 </p>
 
 ---
 
-## 🚀 Sobre Mim  
-- 🎓 Estudante de **Ciência da Computação** – 2º Período  
-- 📊 Estudante de **Big Data e Inteligência Artificial** – 1º Período  
-- 🐍 Focado em **Python** e **SQL**  
-- 💡 Interesses: Machine Learning, Engenharia de Dados e  Ciência de Dados
+## 🚀 About Me  
+- 🎓 **Computer Science Student** – 2nd Semester  
+- 📊 **Big Data and Artificial Intelligence Student** – 1st Semester  
+- 🐍 Focused on **Python** and **SQL**  
+- 💡 Interests: Machine Learning, Data Engineering, and Data Science  
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo  
+## 🛠️ Technologies I’m Learning  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-
 </p>
 
-## 🌐 Conecte-se comigo  
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
@@ -37,5 +38,5 @@
 ---
 
 <p align="center">
-  ✨ _"Sempre aprendendo, sempre evoluindo!"_ ✨
+  ✨ _"Always learning, always evolving!"_ ✨
 </p>
