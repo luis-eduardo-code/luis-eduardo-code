@@ -1,20 +1,20 @@
-<!-- Banner or greeting -->
-<h1 align="center">👋 Hello, I’m Luis Eduardo</h1>
+<!-- Banner ou saudação -->
+<h1 align="center">👋 Olá, eu sou Luis Eduardo</h1>
 <p align="center">
-  A student passionate about <b>Technology, Data Science, and Artificial Intelligence</b>
+  Um estudante apaixonado por <b>Tecnologia, Ciência de Dados e Inteligência Artificial</b>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 **Computer Science Student** – 2nd Semester  
-- 📊 **Big Data and Artificial Intelligence Student** – 1st Semester  
-- 🐍 Focused on **Python** and **SQL**  
-- 💡 Interests: Machine Learning, Data Engineering, and Data Science  
+## 🚀 Sobre Mim  
+- 🎓 **Estudante de Ciência da Computação** – 2º Semestre  
+- 📊 **Estudante de Big Data e Inteligência Artificial** – 1º Semestre  
+- 🐍 Focado em **Python** e **SQL**  
+- 💡 Interesses: Machine Learning, Engenharia de Dados e Ciência de Dados  
 
 ---
 
-## 🛠️ Technologies I’m Learning  
+## 🛠️ Tecnologias que Estou Aprendendo  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Conecte-se Comigo  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  ✨ _"Always learning, always evolving!"_ ✨
+  ✨ _"Sempre aprendendo, sempre evoluindo!"_ ✨
 </p>
